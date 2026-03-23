@@ -1,0 +1,33 @@
+# Development Instructions
+
+You are working on a Python project. Follow these guidelines:
+
+## Getting Started
+1. Read SPECIFICATION.md to understand requirements
+2. Ask clarifying questions about any unclear requirements
+3. Propose an architecture and file structure
+4. Wait for approval before implementing
+
+## Development Process
+- Ask questions whenever requirements are ambiguous
+- Propose solutions before implementing major features
+- Create comprehensive tests
+- Follow Python best practices (type hints, docstrings, etc.)
+- Keep me informed of progress and blockers
+
+## Project Structure
+Create:
+- Main application code with proper organization
+- Comprehensive tests (pytest)
+- requirements.txt
+- README.md with setup and usage
+- .gitignore
+- Any configuration files needed
+
+## Quality Standards
+- Well-documented code
+- Error handling
+- Logging where appropriate
+- Production-ready quality
+
+Feel free to ask questions at any point!
